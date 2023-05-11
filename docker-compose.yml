@@ -17,7 +17,7 @@ services:
       - db
     image: wordpress:latest
     volumes:
-      - ./wp_data/wordpress:/var/www/html
+      - ./wp_data/osc-lab/wordpress:/var/www/html/osc-lab
     ports:
       - "8090:80"
     restart: always

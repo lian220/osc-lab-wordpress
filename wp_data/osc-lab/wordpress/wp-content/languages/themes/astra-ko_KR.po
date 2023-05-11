@@ -1,0 +1,2584 @@
+# Translation of Themes - Astra in Korean
+# This file is distributed under the same license as the Themes - Astra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-03 10:54:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Astra\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!"
+msgstr "아스트라는 빠르고 완벽하게 사용자 정의 할 수있는 아름다운 테마로 블로그, 개인 포트폴리오, 비즈니스 웹 사이트와 우커머스 상점표지에 적합합니다. 매우 가볍고(프론트 엔드에서 50KB 미만) 비교할 수없는 속도를 제공합니다. SEO를 염두에 두고 개발된 아스트라는 Schema.org 코드로 결합됐고 네이티브 AMP 준비가 되어 검색 엔진 최적화에도 도움이 됩니다. 엘리멘터, 비버 빌더, 비주얼 컴포저, SiteOrigin, Divi, 등과 같은 모든 페이지 빌더와 완벽하게 작동하도록 특별한 기능과 템플릿을 제공합니다. 다른 기능 중 일부: # 우커머ㄴ스 준비 # 반응형 # RTL & 번역 준비 # 프리미엄 애드온 확장 # 정기적으로 업데이트 # Brainstorm Force에 의해 디자인, 개발, 유지와 지원합니다. 완벽한 기본 테마를 찾고 계십니까? 더 이상 찾지마세요. 아스트라는 빠르고, 완벽하게 사용자 정의 할 수 있으며, 웹 사이트의 모든 종류를 구축하는 데 사용할 수있는 WooCommerce에 준비된 테마입니다!"
+
+#. Theme Name of the theme
+#: admin/includes/class-astra-menu.php:77 inc/markup-extras.php:1628
+#, gp-priority: high
+msgid "Astra"
+msgstr "아스트라"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:258
+msgid "Customize Button Style."
+msgstr "버튼 스타일 사용자 정의하기."
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:329
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:442
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:219
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:461
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:327
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:98
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:115
+msgid "Alignment"
+msgstr "정렬"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:420
+msgid "Separator"
+msgstr "분리자"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:93
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:94
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:227
+msgid "Position"
+msgstr "위치"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:43
+msgid "Global"
+msgstr "글로벌"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:242
+msgid "Heading 6"
+msgstr "제목 6"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:204
+msgid "Heading 5"
+msgstr "제목 5"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:161
+msgid "Heading 4"
+msgstr "제목 4"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:124
+msgid "Heading 3"
+msgstr "제목 3"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:84
+msgid "Heading 2"
+msgstr "제목 2"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:44
+msgid "Heading 1"
+msgstr "제목 1"
+
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:68
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Size"
+msgstr "크기"
+
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:412
+msgid "Archive Title"
+msgstr "글보관함 제목"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:256
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:272
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:816
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:425
+msgid "Hover Color"
+msgstr "마우스오버 색상"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:82
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:541
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:757
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:365
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:908
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1104
+msgid "Padding"
+msgstr "패딩"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:58
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:206
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:265
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:635
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:75
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:292
+msgid "Colors"
+msgstr "색상"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:869
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:656
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:101
+msgid "Border"
+msgstr "테두리"
+
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:349
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:292
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:620
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:740
+msgid "Title Color"
+msgstr "타이틀 색상"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:150
+msgid "Post Structure"
+msgstr "글 구조"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:112
+msgid "Post Content"
+msgstr "글 콘텐츠"
+
+#: admin/includes/class-astra-menu.php:337
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:224
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:240
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-store-notice-configs.php:41
+#: inc/customizer/configurations/accessibility/class-astra-accessibility-configs.php:87
+#: inc/customizer/configurations/accessibility/class-astra-accessibility-configs.php:142
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:130
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:801
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:409
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:336
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Color"
+msgstr "색상"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:185
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:187
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:94
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:95
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:148
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:202
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:238
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:239
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:503
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:509
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:541
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:547
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:609
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:716
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:720
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:750
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:754
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:952
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:954
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1112
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1132
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:420
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:421
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:474
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:475
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:187
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:193
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:225
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:231
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:281
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:166
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:190
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:196
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:228
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:234
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:266
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:272
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:419
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:187
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:191
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:204
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:208
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:356
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:372
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:104
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:368
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:422
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:698
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:758
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:849
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:865
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:956
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:972
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:452
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:456
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:470
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:474
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:231
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:235
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:249
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:253
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:474
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:500
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:527
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:697
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:731
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:147
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:181
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:152
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:136
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:72
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:325
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:652
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:667
+msgid "Hover"
+msgstr "마우스 오버"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:389
+msgid "Site Icon"
+msgstr "사이트 아이콘"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:170
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:172
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:76
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:77
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:112
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:113
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:129
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:166
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:167
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:183
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:220
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:221
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:484
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:490
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:522
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:528
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:594
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:699
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:703
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:733
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:737
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:937
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:938
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1078
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1102
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:403
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:404
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:457
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:458
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:168
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:174
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:206
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:212
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:263
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:147
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:171
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:177
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:209
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:215
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:247
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:253
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:402
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:158
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:160
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:175
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:177
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:178
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:324
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:340
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:90
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:351
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:404
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:682
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:742
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:817
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:833
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:924
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:940
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:422
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:424
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:440
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:442
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:201
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:203
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:219
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:221
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:458
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:487
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:514
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:680
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:714
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:130
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:164
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:139
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:122
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:59
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:311
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:530
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:545
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:637
+msgid "Normal"
+msgstr "기본"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:126
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:174
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:441
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:539
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:176
+msgid "Meta"
+msgstr "메타"
+
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:389
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:436
+msgid "Structure"
+msgstr "구조"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:233
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:287
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:79
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:368
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:415
+msgid "Custom Width"
+msgstr "사용자 정의 폭"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:401
+msgid "Top Border Color"
+msgstr "상단 테두리 색상"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:199
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:199
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:181
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:387
+msgid "Top Border Size"
+msgstr "상단 테두리 크기"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:575
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:667
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:803
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:978
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-store-notice-configs.php:66
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:96
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:785
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:892
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:160
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:181
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:248
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:295
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:90
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:160
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Text"
+msgstr "텍스트"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:143
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:546
+msgid "Menu Label"
+msgstr "메뉴 레이블"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:472
+msgid "Mobile Menu"
+msgstr "모바일 메뉴"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:463
+msgid "Take Last Item Outside Menu"
+msgstr "마지막 아이템을 메뉴에서 꺼내기"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:235
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:148
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:376
+msgid "Divider Color"
+msgstr "디바이더 색상"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:365
+msgid "Submenu Divider"
+msgstr "서브메뉴 디바이더"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:334
+msgid "Container Border"
+msgstr "콘테이너 테두리"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:292
+msgid "Sub Menu"
+msgstr "하위 메뉴"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:120
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:120
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:120
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:460
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:152
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:779
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:387
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:358
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:74
+msgid "Width"
+msgstr "폭"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:515
+msgid "The parent menu should have a # link for the submenu to open on a link."
+msgstr "상위 메뉴에는 하위 메뉴가 링크에서 열수 있도록 # 링크가 있어야 합니다."
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:150
+msgid "Center"
+msgstr "가운데"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:285
+msgid "All Pages, All Posts, All Attachments"
+msgstr "모든 페이지, 모든 글, 모든 첨부"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:179
+msgid "Latest posts page or when any page is selected as blog page"
+msgstr "최신 게시물 페이지 또는 어떤 페이지든 블로그 페이지로 선택했을 때"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:47
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:55
+msgid "Before Title"
+msgstr "타이틀 앞"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:390
+msgid "Breadcrumb Source"
+msgstr "브레드크럼 소스"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:75
+msgid "Breadcrumb Overview"
+msgstr "브레드크럼 개요"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:126
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:279
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:713
+msgid "Separator Color"
+msgstr "분리자 색상"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:68
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:393
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:442
+msgid "Breadcrumb"
+msgstr "브레드크럼"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:983
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:954
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1393
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:953
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1012
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1389
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:952
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:982
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1011
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1039
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1385
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:935
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:917
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:899
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:429
+msgid "Week %s"
+msgstr "주 %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:427
+msgid "Minute %s"
+msgstr "분 %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:425
+msgid "Comment Page %s"
+msgstr "댓글 페이지 %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:423
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#. Translators: %s is the search query.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:421
+msgid "Search results for: %s"
+msgstr "검색 결과: %s"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:419
+msgid "Archives"
+msgstr "글 보관함"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:418
+msgid "404 Not Found"
+msgstr "404 찾을 수 없습니다"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:416
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "브레드크럼"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:415
+msgid "Browse:"
+msgstr "둘러보기:"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:127
+msgid "Latest Posts page is your site's front page when the latest posts are displayed on the home page."
+msgstr "최신 게시물 페이지는 홈 페이지에 최신 게시물이 표시될 때의 사이트의 프론트 페이지입니다."
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:126
+msgid "Disable on Latest Posts Page?"
+msgstr "마지막 글 페이지에서 비활성화?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:104
+msgid "Blog Page is when Latest Posts are selected to be displayed on a particular page."
+msgstr "블로그 페이지는 최신 게시물이 특정 페이지에 표시되도록 선택한 경우입니다."
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:103
+msgid "Disable on Blog page?"
+msgstr "블로그 페이지에서 비활성화?"
+
+#: inc/core/class-astra-admin-settings.php:185
+msgid "Thank you for installing Astra!"
+msgstr "아스트라를 설치해주셔서 감사드립니다!"
+
+#: inc/core/class-astra-admin-settings.php:159
+#: inc/core/class-astra-admin-settings.php:162
+msgid "Get Started"
+msgstr "시작하기"
+
+#: inc/class-astra-mobile-header.php:112
+#: inc/core/class-astra-walker-page.php:90
+#: inc/core/class-astra-walker-page.php:100 inc/extras.php:422
+msgid "Menu Toggle"
+msgstr "메뉴 토글"
+
+#: admin/includes/class-astra-admin-ajax.php:371
+msgid "Plugin Successfully Deactivated"
+msgstr "플러그인을 비활성화 했습니다"
+
+#: inc/core/class-astra-admin-settings.php:127
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: admin/includes/class-astra-menu.php:305
+#: inc/core/class-astra-admin-settings.php:126
+#: admin/assets/build/dashboard-app.js:1
+msgid "Activate"
+msgstr "활성화"
+
+#: inc/core/class-astra-admin-settings.php:125
+msgid "Deactivating"
+msgstr "비활성화중"
+
+#: admin/includes/class-astra-menu.php:303
+#: inc/core/class-astra-admin-settings.php:124
+msgid "Activating"
+msgstr "활성화중"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:372
+msgid "Primary Header Button"
+msgstr "주 헤더 버튼"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:230
+msgid "Button Style"
+msgstr "버튼 스타일"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:206
+msgid "Button Link"
+msgstr "버튼 링크"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:378
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:292
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:186
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:239
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:222
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:222
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:202
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:254
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:301
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:438
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:257
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:351
+msgid "Border Color"
+msgstr "테두리 색상"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:222
+msgid "Border Size"
+msgstr "테두리 크기"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:383
+msgid "Transparent Header Button"
+msgstr "투명 헤더 버튼"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:361
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:615
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:228
+msgid "Header Button"
+msgstr "헤더 버튼"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:227
+msgid "Theme Button"
+msgstr "테마 버튼"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:134
+msgid "Submenu"
+msgstr "서브메뉴"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1080
+msgid "Link / Text Color"
+msgstr "링크 / 텍스트 색상"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:80
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:648
+msgid "Menu"
+msgstr "메뉴"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:228
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:49
+msgid "Logo"
+msgstr "로고"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:203
+msgid "Different Logo for Transparent Header?"
+msgstr "투명 헤더에 다른 로고?"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:67
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:190
+msgid "Desktop + Mobile"
+msgstr "데스크탑 + 모바일"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:66
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:189
+msgid "Mobile"
+msgstr "모바일"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:65
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:188
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:185
+msgid "Enable On"
+msgstr "활성화"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:171
+msgid "Disable on Posts?"
+msgstr "글 에서 비활성화?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:149
+msgid "Disable on Pages?"
+msgstr "페이지에서 비활성화?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:82
+msgid "This setting is generally not recommended on special pages such as archive, search, 404, etc. If you would like to enable it, uncheck this option"
+msgstr "이 설정은 일반적으로 글보관함, 검색, 404 등과 같은 특정 페이지에는 추천하지 않습니다. 활성화 하길 원하신다면 이 옵션을 체크해제 하세요"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:81
+msgid "Disable on 404, Search & Archives?"
+msgstr "404, 검색 & 글보관함에서 비활성화?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:59
+msgid "Enable on Complete Website"
+msgstr "전체 웹사이트에서 활성화"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:332
+#: inc/metabox/class-astra-meta-boxes.php:714
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:208
+msgid "Disable on WooCommerce Product Pages?"
+msgstr "우커머스 상품 페이지에서 비활성화?"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-single-product-layout-configs.php:45
+msgid "Disable Product Navigation"
+msgstr "상품 내비게이션 비활성화"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:202
+msgid "Archive Content Width"
+msgstr "글보관함 콘텐츠 폭"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:190
+msgid "Variable Product Button Text"
+msgstr "옵션 상품 버튼 텍스트"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:155
+msgid "Options"
+msgstr "옵션"
+
+#. translators: %s Index
+#: admin/includes/class-astra-menu.php:345
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:154
+#: inc/core/builder/class-astra-builder-options.php:1280
+#: inc/core/builder/class-astra-builder-options.php:1392
+#: inc/core/class-astra-theme-options.php:288
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:151
+msgid "Button"
+msgstr "버튼"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:151
+msgid "Variable Product Button"
+msgstr "옵션 상품 버튼"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:129
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-cart-layout-configs.php:57
+msgid "Cart Button Text"
+msgstr "장바구니 버튼 텍스트"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:96
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Image"
+msgstr "이미지"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:73
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:93
+msgid "Product Structure"
+msgstr "상품 구조"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:57
+msgid "Archive Columns"
+msgstr "글보관함 컬럼"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:54
+msgid "Product Archive"
+msgstr "상품 글보관함"
+
+#: inc/compatibility/edd/class-astra-edd.php:942
+msgid "This sidebar will be used on EDD Single Product page."
+msgstr "이 사이드바는 이지 디지털 다운로드 단일 상품 페이지에서 사용됩니다."
+
+#: inc/compatibility/edd/class-astra-edd.php:940
+msgid "EDD Single Product Sidebar"
+msgstr "이지 디지털 다운로드 단일 상품 사이드바"
+
+#: inc/compatibility/edd/class-astra-edd.php:926
+msgid "Easy Digital Downloads Sidebar"
+msgstr "이지 디지털 다운로드 사이드바"
+
+#: inc/compatibility/edd/class-astra-edd.php:867
+msgid "View Details"
+msgstr "상세 보기"
+
+#: admin/includes/class-astra-menu.php:608
+#: inc/compatibility/edd/class-astra-edd.php:323
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:40
+#: admin/assets/build/dashboard-app.js:1
+msgid "Easy Digital Downloads"
+msgstr "이지 디지털 다운로드"
+
+#. Translators: %s is the theme name.
+#: inc/metabox/class-astra-meta-boxes.php:154
+#: inc/metabox/class-astra-meta-boxes.php:484
+msgid "%s Settings"
+msgstr "%s 설정"
+
+#: inc/customizer/class-astra-customizer.php:567
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:100
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:130
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: inc/customizer/class-astra-customizer.php:565
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:98
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:128
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: inc/customizer/class-astra-customizer.php:563
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:96
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:126
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: inc/customizer/class-astra-customizer.php:561
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:94
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:124
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: inc/customizer/class-astra-customizer.php:559
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:92
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:122
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: inc/customizer/class-astra-customizer.php:557
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:90
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:120
+msgid "400 Italic"
+msgstr "400 Italic"
+
+#: inc/customizer/class-astra-customizer.php:555
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:88
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:118
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: inc/customizer/class-astra-customizer.php:553
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:86
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:116
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: inc/customizer/class-astra-customizer.php:551
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:84
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:114
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:178
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:320
+msgid "Fade"
+msgstr "페이드"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:177
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:319
+msgid "Slide Up"
+msgstr "슬라이드 업"
+
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:176
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:318
+msgid "Slide Down"
+msgstr "슬라이드 다운"
+
+#: admin/includes/class-astra-menu.php:551
+msgid "Nav Menu"
+msgstr "내비게이션 메뉴"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:368
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:95
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:206
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:77
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:302
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:325
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:205
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:404
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:445
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:89
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:114
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:313
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:162
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:279
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:304
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:497
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:232
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:286
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:336
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:96
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:149
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:251
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:143
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:229
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:481
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:509
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:531
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:287
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:326
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:380
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:655
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:141
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:438
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:463
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:549
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:574
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:596
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:762
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:784
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:370
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:392
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:120
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:339
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:894
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:916
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1082
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1112
+msgid "Left"
+msgstr "왼쪽"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:367
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:205
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-store-notice-configs.php:98
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:284
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:76
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:301
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:324
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:204
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:403
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:444
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:88
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:113
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:312
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:167
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:167
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:161
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:278
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:303
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:147
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:496
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:231
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:285
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:335
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:250
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:142
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:480
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:511
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:530
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:286
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:325
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:379
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:654
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:140
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:437
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:462
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:548
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:573
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:595
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:761
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:783
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:369
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:391
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:119
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:338
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:498
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:893
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:915
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:631
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1081
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1111
+msgid "Bottom"
+msgstr "아래"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:366
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:96
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:204
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:75
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:300
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:323
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:203
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:402
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:443
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:87
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:112
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:311
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:160
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:277
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:302
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:495
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:230
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:284
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:334
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:97
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:151
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:249
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:141
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:230
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:479
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:510
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:529
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:285
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:324
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:378
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:653
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:139
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:436
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:461
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:547
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:572
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:594
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:760
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:782
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:368
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:390
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:118
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:337
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:892
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:914
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1080
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1110
+msgid "Right"
+msgstr "오른쪽"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:365
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:203
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-store-notice-configs.php:97
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:283
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:74
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:299
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:322
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:202
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:401
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:442
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:86
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:111
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:310
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:165
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:165
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:159
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:276
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:301
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:145
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:494
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:229
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:283
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:333
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:248
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:140
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:478
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:528
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:284
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:323
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:377
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:652
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:138
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:435
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:460
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:546
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:571
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:593
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:759
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:781
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:367
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:389
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:117
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:336
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:496
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:891
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:913
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:629
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1079
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:1109
+msgid "Top"
+msgstr "상단"
+
+#. Translators: Author Name.
+#: inc/blog/blog-config.php:253
+msgid "View all posts by %1$s"
+msgstr "%1$s의 모든 글 보기"
+
+#: inc/core/common-functions.php:1231
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:314
+msgid "Typography Overview"
+msgstr "글자 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:272
+msgid "Colors & Background Overview"
+msgstr "색상 & 배경 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:235
+msgid "Sidebar Overview"
+msgstr "사이드바 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:186
+msgid "Footer Bar Overview"
+msgstr "푸터 바 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:130
+msgid "Primary Header Overview"
+msgstr "주 헤더 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:103
+msgid "Site Identity Overview"
+msgstr "사이트 아이덴티티 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:64
+msgid "Container Overview"
+msgstr "콘테이너 개요"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:58
+msgid "Site Layout Overview"
+msgstr "사이트 레이아웃 개요"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:72
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:55
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:100
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:127
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:183
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:232
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:269
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:311
+msgid "Helpful Information"
+msgstr "도움 정보"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:244
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:89
+msgid "Different Logo For Retina Devices?"
+msgstr "레티나 기기에 다른 로고?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:558
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:887
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:994
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:118
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:127
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:167
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:646
+msgid "Link"
+msgstr "링크"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:627
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:766
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:835
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:126
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:158
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:247
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:645
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Icon"
+msgstr "아이콘"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:123
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:641
+msgid "Dropdown Target"
+msgstr "드랍다운 타겟"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:182
+msgid "Mobile Logo (optional)"
+msgstr "모바일 로고 (선택적)"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:147
+msgid "Different Logo For Mobile Devices?"
+msgstr "모바일 기기에 다른 로고?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:597
+msgid "Toggle Button Color"
+msgstr "토글 버튼 색상"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:117
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:577
+msgid "Minimal"
+msgstr "미니멀"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:112
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:116
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:308
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:576
+msgid "Outline"
+msgstr "아웃라인"
+
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:187
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:317
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:161
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:278
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:473
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:318
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:588
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:832
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:441
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:613
+msgid "Border Radius"
+msgstr "둥근 모서리"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:113
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:115
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:309
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:575
+msgid "Fill"
+msgstr "채우기"
+
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:110
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:563
+msgid "Toggle Button Style"
+msgstr "토글 버튼 스타일"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:442
+msgid "Hide Last Item in Menu on Mobile"
+msgstr "모바일 메뉴에서 마지막 아이템 감추기"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:145
+msgid "Last Item in Menu"
+msgstr "메뉴 마지막 아이템"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:488
+msgid "Menu Breakpoint"
+msgstr "메뉴 중단점"
+
+#: admin/includes/class-astra-menu.php:325
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:95
+msgid "Site Identity"
+msgstr "사이트 아이덴티티"
+
+#: admin/includes/class-astra-menu.php:486
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:397
+msgid "Mobile Header"
+msgstr "모바일 헤더"
+
+#: admin/includes/class-astra-menu.php:622
+#: inc/compatibility/learndash/customizer/class-astra-customizer-register-learndash-section.php:40
+#: admin/assets/build/dashboard-app.js:1
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:130
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:184
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:465
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:682
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:854
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-store-notice-configs.php:80
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:242
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:242
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:143
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:226
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:90
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:90
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:163
+#: inc/customizer/configurations/builder/header/class-astra-customizer-off-canvas-configs.php:222
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:107
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:800
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:907
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:405
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:182
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:166
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:89
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:595
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:710
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Background"
+msgstr "배경"
+
+#: admin/includes/class-astra-menu.php:624
+msgid "Supercharge your LearnDash website with amazing design features."
+msgstr "LearnDash 웹사이트를 놀라운 디자인 기능으로 충전하세요."
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:61
+msgid "Differentiate Rows"
+msgstr "서로 다른 행"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:44
+msgid "Display Serial Number"
+msgstr "일련번호 표시"
+
+#: inc/markup-extras.php:1644
+msgid "Astra Pro"
+msgstr "아스트라 프로"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:466
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:669
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:292
+#: admin/assets/build/dashboard-app.js:1
+msgid "Learn More"
+msgstr "더 알아보기"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:69
+msgid "Theme Color"
+msgstr "테마 색상"
+
+#: inc/customizer/astra-pro/class-astra-pro-upgrade-link-configs.php:34
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:466
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:669
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:292
+msgid "More Options Available in Astra Pro!"
+msgstr "더 많은 옵션은 아스트라 프로 버전에서 가능합니다!"
+
+#: admin/includes/class-astra-admin-ajax.php:311
+msgid "Plugin Successfully Activated"
+msgstr "플러그인이 성공적으로 활성화되었습니다"
+
+#: admin/includes/class-astra-admin-ajax.php:286
+#: admin/includes/class-astra-admin-ajax.php:348
+msgid "No plugin specified"
+msgstr "플러그인이 특정되지 않았습니다"
+
+#: admin/includes/class-astra-menu.php:651
+#: admin/assets/build/dashboard-app.js:1
+msgid "White Label"
+msgstr "화이트 레이블"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:414
+msgid "Scroll To Top"
+msgstr "상단으로 스크롤"
+
+#: admin/includes/class-astra-menu.php:525
+msgid "Site Layouts"
+msgstr "사이트 레이아웃"
+
+#: admin/includes/class-astra-menu.php:565
+msgid "Add content conditionally in the various hook areas of the theme."
+msgstr "테마의 여러 가지 후크 영역에서 조건적으로 콘텐츠 추가하기."
+
+#: admin/includes/class-astra-menu.php:179
+#: admin/includes/class-astra-menu.php:180
+#: admin/includes/class-astra-menu.php:564
+#: admin/assets/build/dashboard-app.js:1
+msgid "Custom Layouts"
+msgstr "사용자 정의 레이아웃"
+
+#: admin/includes/class-astra-menu.php:580
+msgid "Make your header layouts look more appealing and sexy!"
+msgstr "헤더 레이아웃을 더욱 호감가고 섹시하게 보이도록 하세요!"
+
+#: admin/includes/class-astra-menu.php:579
+msgid "Page Headers"
+msgstr "페이지 헤더"
+
+#: admin/includes/class-astra-menu.php:512
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:556
+#: inc/metabox/class-astra-meta-boxes.php:522
+msgid "Sticky Header"
+msgstr "고정 헤더"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:328
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:48
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:444
+#: inc/metabox/class-astra-meta-boxes.php:524
+msgid "Transparent Header"
+msgstr "투명 헤더"
+
+#: admin/includes/class-astra-menu.php:499
+msgid "Header Sections"
+msgstr "헤더 영역"
+
+#: admin/includes/class-astra-menu.php:473
+msgid "Blog Pro"
+msgstr "Blog Pro"
+
+#: admin/includes/class-astra-menu.php:460
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:361
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:176
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:417
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:61
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:133
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:252
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:308
+#: inc/customizer/configurations/builder/header/class-astra-customizer-site-identity-configs.php:115
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:504
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:630
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:113
+#: inc/customizer/configurations/builder/header/class-astra-mobile-menu-component-configs.php:411
+#: admin/assets/build/dashboard-app.js:1
+msgid "Spacing"
+msgstr "스페이싱"
+
+#: admin/includes/class-astra-menu.php:333
+msgid "Footer Settings"
+msgstr "푸터 설정"
+
+#: inc/core/class-astra-admin-settings.php:362
+msgid "Install Importer Plugin"
+msgstr "가져오기 플러그인 설치"
+
+#: inc/core/class-astra-admin-settings.php:336
+#: inc/core/class-astra-admin-settings.php:349
+msgid "Activate Importer Plugin"
+msgstr "가져오기 플러그인 활성화"
+
+#: inc/core/class-astra-admin-settings.php:341
+#: inc/core/class-astra-admin-settings.php:354
+msgid "Activating Importer Plugin "
+msgstr "가져오기 플러그인 활성화 "
+
+#: inc/customizer/class-astra-customizer.php:1400
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:75
+msgid "Default System Font"
+msgstr "기본 시스템 폰트"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:74
+msgid "Course Columns"
+msgstr "코스 컬럼"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:101
+msgid "Membership Columns"
+msgstr "멤버십 컬럼"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:266
+msgid "Shop Archive Content Width"
+msgstr "상점 글보관함 콘텐츠 폭"
+
+#: admin/includes/class-astra-menu.php:637
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:39
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:62
+#: admin/assets/build/dashboard-app.js:1
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:318
+msgid "Leave Review"
+msgstr "리뷰 달기"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:314
+msgid "Review Text is required."
+msgstr "리뷰 텍스트 필수."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:313
+msgid "Review Text"
+msgstr "리뷰 텍스트"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:312
+msgid "Review Title is required."
+msgstr "리뷰제목 필수."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:311
+msgid "Review Title"
+msgstr "리뷰 제목"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:310
+msgid "Write a Review"
+msgstr "리뷰 달기"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:304
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:321
+msgid "Thank you for your review!"
+msgstr "고객님의 리뷰에 감사드립니다!"
+
+#. translators: 1 Author Name.
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:267
+msgid "By: %s"
+msgstr "글쓴이: %s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:236
+msgid "What Others Have Said"
+msgstr "다른 사람의 리뷰"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:92
+msgid "Sidebar width will apply only when one of the above sidebar is set."
+msgstr "사이드바 폭은 위 사이트바 중 하나가 설정됐을 때 적용됩니다."
+
+#: inc/core/class-astra-admin-settings.php:128
+#: admin/assets/build/dashboard-app.js:1
+msgid "Settings"
+msgstr "설정"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:272
+msgid "Inline Logo & Site Title"
+msgstr "인라인 로고 및 사이트 제목"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:200
+msgid "Blog"
+msgstr "블로그"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:122
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:56
+msgid "Primary Header"
+msgstr "주 헤더"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:138
+msgid "Availability:"
+msgstr "재고여부:"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:84
+msgid "Out of stock"
+msgstr "품절"
+
+#: inc/compatibility/edd/class-astra-edd.php:865
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:101
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:56
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:65
+msgid "Add To Cart"
+msgstr "장바구니"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:100
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:170
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:125
+msgid "Short Description"
+msgstr "상품 요약글"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:169
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:121
+msgid "Ratings"
+msgstr "평가"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:99
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:168
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:120
+msgid "Price"
+msgstr "가격"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:904
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:98
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:167
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:119
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:239
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:440
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:74
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:356
+msgid "Title"
+msgstr "타이틀"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:245
+msgid "Products Per Page"
+msgstr "페이지당 상품"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:229
+msgid "Shop Columns"
+msgstr "상점 컬럼"
+
+#: inc/metabox/class-astra-meta-boxes.php:330
+#: inc/metabox/class-astra-meta-boxes.php:645
+msgid "Disable Breadcrumb"
+msgstr "브레드크럼 비활성화"
+
+#: inc/compatibility/edd/class-astra-edd.php:103
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:534
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:55
+#: inc/core/builder/class-astra-builder-helper.php:719
+#: inc/core/builder/class-astra-builder-helper.php:729
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:82
+#: inc/theme-update/astra-update-functions.php:559
+#: inc/theme-update/astra-update-functions.php:563
+msgid "Cart"
+msgstr "장바구니"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:63
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:47
+msgid "Single Product"
+msgstr "단일 상품"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:38
+msgid "Shop"
+msgstr "상점"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:46
+#: inc/compatibility/learndash/customizer/class-astra-customizer-register-learndash-section.php:46
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:48
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:62
+#: admin/assets/build/dashboard-app.js:1
+msgid "General"
+msgstr "일반"
+
+#: admin/includes/class-astra-menu.php:594
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:66
+#: admin/assets/build/dashboard-app.js:1
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/edd/class-astra-edd.php:445
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:3294
+msgid "View your shopping cart"
+msgstr "장바구니 보기"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1124
+msgid "This sidebar will be used on Single Product page."
+msgstr "이 사이드바는 단일 상품 페이지에서 사용됩니다."
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1122
+msgid "Product Sidebar"
+msgstr "상품 사이드바"
+
+#: inc/compatibility/edd/class-astra-edd.php:928
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:364
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1110
+msgid "This sidebar will be used on Product archive, Cart, Checkout and My Account pages."
+msgstr "이 사이드바는 상품 글보관함, 장바구니, 결제 및 내 계정 페이지에 사용됩니다."
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:362
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1108
+msgid "WooCommerce Sidebar"
+msgstr "우커머스 사이드바"
+
+#: inc/core/common-functions.php:902
+msgid "This page doesn't seem to exist."
+msgstr "이 페이지는 존재하지 않는 것 같습니다."
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:417
+#: inc/core/common-functions.php:896
+msgid "Home"
+msgstr "홈"
+
+#: inc/metabox/class-astra-meta-boxes.php:338
+msgid "Disable Featured Image"
+msgstr "특성 이미지 비활성화"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:308
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:212
+msgid "Logo Width"
+msgstr "로고 폭"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:282
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:128
+msgid "Retina Logo"
+msgstr "레티나 로고"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:762
+#: inc/metabox/class-astra-meta-boxes.php:369
+msgid "Disable Footer Widgets"
+msgstr "푸터 위젯 비활성화"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:280
+msgid "Paragraph Margin Bottom"
+msgstr "문단 하단 마진"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:154
+msgid "Title & Blog Meta"
+msgstr "제목 & 블로그 메타"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:153
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:294
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:148
+msgid "Featured Image"
+msgstr "특성 이미지"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:65
+msgid "Continue reading %s"
+msgstr "%s 계속 읽기"
+
+#: inc/widgets.php:199
+msgid "Footer Widget Area 4"
+msgstr "푸터 위젯 영역 4"
+
+#: inc/widgets.php:185
+msgid "Footer Widget Area 3"
+msgstr "푸터 위젯 영역 3"
+
+#: inc/widgets.php:171
+msgid "Footer Widget Area 2"
+msgstr "푸터 위젯 영역 2"
+
+#: inc/widgets.php:157
+msgid "Footer Widget Area 1"
+msgstr "푸터 위젯 영역 1"
+
+#: inc/widgets.php:139
+msgid "Footer Bar Section 2"
+msgstr "푸터 바 영역 2"
+
+#: inc/widgets.php:124
+msgid "Footer Bar Section 1"
+msgstr "푸터 바 영역 1"
+
+#: inc/template-parts.php:173
+msgid "Main Menu"
+msgstr "메인 메뉴"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:331
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:789
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:801
+#: inc/metabox/class-astra-meta-boxes.php:234
+#: inc/metabox/class-astra-meta-boxes.php:250
+#: inc/metabox/class-astra-meta-boxes.php:549
+#: inc/metabox/class-astra-meta-boxes.php:561
+msgid "Customizer Setting"
+msgstr "사용자 정의하기 설정"
+
+#: inc/markup-extras.php:1343
+msgid "Click here to assign a widget for this area."
+msgstr "이 영역에 위젯을 배정하려면 여기를 클릭하세요."
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:337
+msgid "Headings"
+msgstr "헤딩"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:58
+msgid "Footer Bar Layout 2"
+msgstr "푸터 바 레이아웃 2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:54
+msgid "Footer Bar Layout 1"
+msgstr "푸터 바 레이아웃 1"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:66
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:66
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:805
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:73
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:65
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:67
+#: inc/metabox/class-astra-meta-boxes.php:254
+#: inc/metabox/class-astra-meta-boxes.php:565
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:93
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:120
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:92
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:119
+msgid "Full Width / Stretched"
+msgstr "전체 폭 / 확장"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:62
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:804
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:69
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:61
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:63
+#: inc/metabox/class-astra-meta-boxes.php:253
+#: inc/metabox/class-astra-meta-boxes.php:564
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:89
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:116
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:88
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:115
+msgid "Full Width / Contained"
+msgstr "전체폭 / 컨테인드"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:46
+msgid "Default Layout"
+msgstr "기본 레이아웃"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:446
+msgid "Layout 4"
+msgstr "레이아웃 4"
+
+#: inc/customizer/configurations/accessibility/class-astra-accessibility-configs.php:112
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:442
+msgid "Disable"
+msgstr "비활성"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1116
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1147
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:124
+#: inc/customizer/configurations/builder/class-astra-builder-base-configuration.php:380
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:248
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:725
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:88
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:314
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:651
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:770
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:552
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:658
+msgid "Link Color"
+msgstr "링크 색상"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:328
+msgid "Base Typography"
+msgstr "기본 글자"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:286
+msgid "Base Colors"
+msgstr "기본 색상"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:177
+msgid "Footer Bar"
+msgstr "푸터 바"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:79 inc/core/class-theme-strings.php:94
+msgid "Previous %s"
+msgstr "이전 %s"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:77 inc/core/class-theme-strings.php:92
+msgid "Next %s"
+msgstr "다음 %s"
+
+#: inc/customizer/class-astra-customizer.php:566
+#: inc/customizer/class-astra-font-families.php:136
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:99
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:129
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/customizer/class-astra-customizer.php:564
+#: inc/customizer/class-astra-font-families.php:135
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:97
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:127
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/customizer/class-astra-customizer.php:562
+#: inc/customizer/class-astra-font-families.php:134
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:95
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:125
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/customizer/class-astra-customizer.php:560
+#: inc/customizer/class-astra-font-families.php:133
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:93
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:123
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/customizer/class-astra-customizer.php:558
+#: inc/customizer/class-astra-font-families.php:132
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:91
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:121
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/customizer/class-astra-customizer.php:556
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:89
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:119
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/class-astra-customizer.php:554
+#: inc/customizer/class-astra-font-families.php:130
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:87
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:117
+msgid "Light 300"
+msgstr "Light 300"
+
+#: inc/customizer/class-astra-customizer.php:552
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:85
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:115
+msgid "Extra-Light 200"
+msgstr "Extra-Light 200"
+
+#: inc/customizer/class-astra-customizer.php:550
+#: inc/customizer/class-astra-font-families.php:128
+#: inc/customizer/custom-controls/class-astra-customizer-control-base.php:83
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:113
+msgid "Thin 100"
+msgstr "Thin 100"
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: admin/includes/class-astra-menu.php:538
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:169
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:295
+msgid "Footer Widgets"
+msgstr "푸터 위젯"
+
+#: inc/widgets.php:88
+msgid "Main Sidebar"
+msgstr "메인 사이드바"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:35 template-parts/content-page.php:32
+#: template-parts/single/single-layout.php:53
+msgid "Edit %s"
+msgstr "편집 %s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:715
+#: inc/metabox/class-astra-meta-boxes.php:288
+#: inc/metabox/class-astra-meta-boxes.php:588
+msgid "Disable Primary Header"
+msgstr "주 헤더 비활성화"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:753
+#: inc/metabox/class-astra-meta-boxes.php:320
+msgid "Disable Title"
+msgstr "타이틀 비활성화"
+
+#: inc/metabox/class-astra-meta-boxes.php:264
+#: inc/metabox/class-astra-meta-boxes.php:519
+msgid "Disable Sections"
+msgstr "영역 비활성화"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:777
+msgid "Astra Settings"
+msgstr "아스트라 설정"
+
+#: inc/markup-extras.php:1303
+msgid "Add Widget"
+msgstr "위젯 추가"
+
+#: inc/markup-extras.php:645
+msgid "Assign Footer Menu"
+msgstr "푸터 메뉴 배정"
+
+#: inc/markup-extras.php:465
+msgid "Add Custom HTML"
+msgstr "사용자 정의 HTML 추가"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:382
+msgid "Site Title"
+msgstr "사이트 제목"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:146
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:309
+msgid "Line Height"
+msgstr "줄 간격"
+
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:293
+msgid "Lowercase"
+msgstr "소문자"
+
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:292
+msgid "Uppercase"
+msgstr "대문자"
+
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:291
+msgid "Capitalize"
+msgstr "전체 대문자"
+
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:289
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:111
+#: inc/metabox/class-astra-meta-boxes.php:713
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Inherit"
+msgstr "상속"
+
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:282
+msgid "Text Transform"
+msgstr "폰트 대소문자"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:74
+msgid "Sidebar Width"
+msgstr "사이드바 폭"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:193
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:184
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:184
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:97
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:164
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:416
+msgid "Stack"
+msgstr "모바일에서 세로배열"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:62
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:791
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:77
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:111
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:61
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:57
+#: inc/metabox/class-astra-meta-boxes.php:236
+#: inc/metabox/class-astra-meta-boxes.php:552
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:178
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:174
+msgid "Right Sidebar"
+msgstr "우측 사이드바"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:58
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:58
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:790
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:73
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:107
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:57
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:53
+#: inc/metabox/class-astra-meta-boxes.php:235
+#: inc/metabox/class-astra-meta-boxes.php:551
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:174
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:170
+msgid "Left Sidebar"
+msgstr "좌측 사이드바"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:54
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:54
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:792
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:69
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:103
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:53
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:49
+#: inc/metabox/class-astra-meta-boxes.php:237
+#: inc/metabox/class-astra-meta-boxes.php:550
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:170
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:166
+msgid "No Sidebar"
+msgstr "사이드바 없음"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:192
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:185
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:185
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:96
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:165
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:412
+msgid "Inline"
+msgstr "인라인"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:351
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:106
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:106
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:121
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:120
+msgid "Bottom Border Color"
+msgstr "하단 테두리 색상"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:328
+#: inc/customizer/configurations/builder/header/class-astra-customizer-above-header-configs.php:124
+#: inc/customizer/configurations/builder/header/class-astra-customizer-below-header-configs.php:124
+#: inc/customizer/configurations/builder/header/class-astra-customizer-primary-header-configs.php:141
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:93
+msgid "Bottom Border Size"
+msgstr "하단 테두리 크기"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:284
+msgid "Custom Menu Text / HTML"
+msgstr "사용자 정의 메뉴 텍스트 / HTML"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:152
+msgid "Text / HTML"
+msgstr "텍스트 / HTML"
+
+#: inc/core/builder/class-astra-builder-helper.php:685
+#: inc/core/builder/class-astra-builder-helper.php:747
+#: inc/customizer/configurations/builder/header/class-astra-header-search-component-configs.php:50
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:150
+#: inc/markup-extras.php:433 searchform.php:30 searchform.php:36
+msgid "Search"
+msgstr "검색"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:129
+msgid "Disable Menu"
+msgstr "메뉴 비활성화"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:58
+msgid "Logo Right"
+msgstr "우측 로고"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:54
+msgid "Logo Center"
+msgstr "중앙 로고"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:50
+msgid "Logo Left"
+msgstr "좌측 로고"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:191
+msgid "Section 2 Custom Text"
+msgstr "영역 2 사용자 정의 텍스트"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:157
+msgid "Section 2"
+msgstr "영역 2"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:123
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:123
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:123
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:463
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:361
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:77
+msgid "Content Width"
+msgstr "콘텐츠 폭"
+
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:122
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:122
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:122
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:462
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:360
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:76
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:326
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:373
+msgid "Full Width"
+msgstr "전체폭"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:125
+msgid "Section 1 Custom Text"
+msgstr "영역 1 사용자 정의 텍스트"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:91
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:129
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:161
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:153
+msgid "Widget"
+msgstr "위젯"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:128
+msgid "Custom Text"
+msgstr "사용자 정의 텍스트"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:44
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:52
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:246
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:114
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:175
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:290
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:127
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:159
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:149
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:317
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:209
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:215
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "None"
+msgstr "아니오"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:86
+msgid "Section 1"
+msgstr "영역 1"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:333
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:50
+#: inc/metabox/class-astra-meta-boxes.php:715
+msgid "Disabled"
+msgstr "비활성화됨"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:84
+#: inc/addons/scroll-to-top/classes/customizer/class-astra-scroll-to-top-configs.php:162
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1101
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1128
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:1161
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:358
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:150
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:145
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:263
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:201
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:665
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:424
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:718
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:735
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:168
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:185
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:42
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:269
+msgid "Background Color"
+msgstr "배경색상"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:798
+#: inc/metabox/class-astra-meta-boxes.php:247
+#: inc/metabox/class-astra-meta-boxes.php:518
+#: inc/metabox/extend-metabox/build/index.js:1
+msgid "Content Layout"
+msgstr "콘텐츠 레이아웃"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:119
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:443
+msgid "Excerpt"
+msgstr "요약글"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:118
+msgid "Full Content"
+msgstr "전체 콘텐츠"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:44
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:182
+msgid "Tag"
+msgstr "태그"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:58
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:58
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:803
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:65
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:57
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:59
+#: inc/metabox/class-astra-meta-boxes.php:252
+#: inc/metabox/class-astra-meta-boxes.php:563
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:85
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:112
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:84
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:111
+msgid "Content Boxed"
+msgstr "콘텐츠 박스형"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:54
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:54
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:802
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:53
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:55
+#: inc/metabox/class-astra-meta-boxes.php:251
+#: inc/metabox/class-astra-meta-boxes.php:562
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:81
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:108
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:80
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:107
+msgid "Boxed"
+msgstr "박스형"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:207
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:269
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:34
+#: inc/customizer/configurations/block-editor/class-astra-block-editor-configs.php:41
+#: inc/customizer/configurations/builder/base/class-astra-social-icon-component-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:70
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:52
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:210
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:216
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:327
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:374
+#: inc/customizer/extend-custom-controls/build/index.js:1
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:36
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:50
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:50
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:206
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:50
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:50
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:57
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:65
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:99
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:49
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:49
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:268
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:323
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:492
+#: inc/customizer/configurations/builder/header/class-astra-header-account-component-configs.php:42
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:69
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:219
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:51
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:95
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:122
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:239
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:77
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:104
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:166
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:76
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:103
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:162
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:588
+msgid "Default"
+msgstr "기본"
+
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:181
+msgid "Publish Date"
+msgstr "공개 날짜"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:36
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:543
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:180
+msgid "Author"
+msgstr "글쓴이"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:97
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:174
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:127
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:35
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:179
+msgid "Category"
+msgstr "카테고리"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:34
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:542
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:178
+msgid "Comments"
+msgstr "댓글"
+
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:666
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:785
+msgid "Link Hover Color"
+msgstr "링크 호버 색상"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:105
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:334
+#: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:137
+#: inc/customizer/configurations/builder/base/class-astra-html-component-configs.php:115
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-copyright-configs.php:121
+#: inc/customizer/configurations/builder/header/class-astra-customizer-edd-cart-configs.php:232
+#: inc/customizer/configurations/builder/header/class-astra-customizer-woo-cart-configs.php:653
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:410
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:684
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:701
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:134
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:151
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:126
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:44
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:635
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:754
+#: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:537
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:111
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:350
+msgid "Buttons"
+msgstr "버튼"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:44
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:922
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:983
+msgid "Content"
+msgstr "콘텐츠"
+
+#: admin/includes/class-astra-menu.php:341
+#: admin/includes/class-astra-menu.php:447
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:306
+#: inc/customizer/configurations/builder/header/class-astra-customizer-mobile-trigger-configs.php:353
+#: inc/customizer/configurations/buttons/class-astra-existing-button-configs.php:196
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:408
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:423
+#: admin/assets/build/dashboard-app.js:1
+msgid "Typography"
+msgstr "글자"
+
+#: admin/includes/class-astra-menu.php:434
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:370
+msgid "Colors & Background"
+msgstr "색상 & 배경"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:786
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:228
+#: inc/metabox/class-astra-meta-boxes.php:231
+#: inc/metabox/class-astra-meta-boxes.php:516
+#: inc/metabox/extend-metabox/build/index.js:1
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:213
+msgid "Single Post"
+msgstr "단일 글"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:206
+msgid "Blog / Archive"
+msgstr "블로그 / 글보관함"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:150
+msgid "Footer"
+msgstr "푸터"
+
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:57
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:83
+#: inc/widgets.php:106
+msgid "Header"
+msgstr "헤더"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:50
+msgid "Container"
+msgstr "콘테이너"
+
+#: inc/customizer/class-astra-customizer-sanitizes.php:298
+msgid "Enter valid email address!"
+msgstr "유효한 이메일 주소를 입력해주세요!"
+
+#. translators: 1: search string
+#: inc/core/common-functions.php:908 inc/core/common-functions.php:1027
+msgid "Search Results for: %s"
+msgstr "검색 결과: %s"
+
+#: inc/core/class-theme-strings.php:82
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾으시는 것을 발견할 수 없는 것 같습니다. 검색이 도움이 될지도 모릅니다."
+
+#: inc/core/class-theme-strings.php:72 inc/core/class-theme-strings.php:89
+msgid "Previous Page"
+msgstr "이전 페이지"
+
+#: inc/core/class-theme-strings.php:71 inc/core/class-theme-strings.php:88
+msgid "Next Page"
+msgstr "다음 페이지"
+
+#: inc/core/class-theme-strings.php:70
+msgid "% Comments"
+msgstr "% 댓글"
+
+#: inc/core/class-theme-strings.php:69
+msgid "1 Comment"
+msgstr "1개의 댓글"
+
+#: inc/core/class-theme-strings.php:67
+msgid "By "
+msgstr "글쓴이 "
+
+#: inc/core/class-theme-strings.php:66 inc/core/class-theme-strings.php:75
+msgid "Pages:"
+msgstr "페이지:"
+
+#: admin/includes/class-astra-menu.php:353
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-above-footer-configs.php:97
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-below-footer-configs.php:97
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:86
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-primary-footer-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:437
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:43
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:423
+msgid "Layout"
+msgstr "레이아웃"
+
+#: inc/core/class-theme-strings.php:63
+msgid "Older Comments"
+msgstr "이전 댓글"
+
+#: inc/core/class-theme-strings.php:62
+msgid "Newer Comments"
+msgstr "다음 댓글"
+
+#: inc/core/class-theme-strings.php:61
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#: inc/core/class-theme-strings.php:60
+msgid "Comments are closed."
+msgstr "댓글은 닫혔습니다."
+
+#: inc/core/class-theme-strings.php:59
+msgid "Website"
+msgstr "웹사이트"
+
+#: inc/core/class-theme-strings.php:58
+msgid "Email*"
+msgstr "이메일*"
+
+#: inc/core/class-theme-strings.php:57
+msgid "Name*"
+msgstr "이름*"
+
+#: inc/core/class-theme-strings.php:56
+msgid "Type here.."
+msgstr "여기에 입력하세요..."
+
+#: inc/core/class-theme-strings.php:55
+msgid "Post Comment &raquo;"
+msgstr "댓글 작성 &raquo;"
+
+#: inc/core/class-theme-strings.php:54
+msgid "Cancel Reply"
+msgstr "댓글 취소"
+
+#: inc/core/class-theme-strings.php:53 inc/core/class-theme-strings.php:68
+msgid "Leave a Comment"
+msgstr "댓글 달기"
+
+#: inc/core/class-theme-strings.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "댓글이 검토를 기다리고 있습니다."
+
+#: inc/core/class-theme-strings.php:51
+msgid "Edit"
+msgstr "수정"
+
+#: inc/core/class-theme-strings.php:50
+msgid "Reply"
+msgstr "답글"
+
+#: inc/core/class-theme-strings.php:45 inc/core/class-theme-strings.php:46
+#: inc/core/class-theme-strings.php:47
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: inc/core/class-theme-strings.php:44
+msgid "Start typing and press enter to search"
+msgstr "검색어를 입력하고 엔터키를 누르세요"
+
+#: inc/core/class-theme-strings.php:43
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송합니다. 회원님의 검색어와 일치하는 것이 없습니다. 다른 키워드로 다시 해보세요."
+
+#: inc/core/class-theme-strings.php:42
+msgid "Nothing Found"
+msgstr "찾을 수 없습니다"
+
+#: inc/core/class-theme-strings.php:39
+msgid "It looks like the link pointing here was faulty. Maybe try searching?"
+msgstr "여기를 지시하는 링크가 잘못된 것 같습니다. 검색이 도움이 될 수도 있습니다."
+
+#: inc/core/class-theme-strings.php:36
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: inc/core/class-astra-theme-options.php:287
+msgid "Contact Us"
+msgstr "문의하기"
+
+#: inc/core/class-astra-theme-options.php:253
+#: inc/core/class-astra-theme-options.php:255
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; {current_year} {site_title} - Powered by {theme_author}."
+
+#: inc/compatibility/class-astra-beaver-themer.php:358
+msgid "Loop End"
+msgstr "연속재생 종료"
+
+#: inc/compatibility/class-astra-beaver-themer.php:357
+msgid "After Comments"
+msgstr "댓글 뒤에"
+
+#: inc/compatibility/class-astra-beaver-themer.php:356
+msgid "Before Comments"
+msgstr "댓글 전에"
+
+#: inc/compatibility/class-astra-beaver-themer.php:355
+msgid "After Post"
+msgstr "글 뒤에"
+
+#: inc/compatibility/class-astra-beaver-themer.php:354
+msgid "After Post Content"
+msgstr "글 콘텐츠 다음"
+
+#: inc/compatibility/class-astra-beaver-themer.php:353
+msgid "Before Post Content"
+msgstr "글 콘텐츠 이전"
+
+#: inc/compatibility/class-astra-beaver-themer.php:352
+msgid "Before Post"
+msgstr "글 전에"
+
+#: inc/compatibility/class-astra-beaver-themer.php:351
+msgid "Loop Start"
+msgstr "연속재생 시작"
+
+#: inc/compatibility/class-astra-beaver-themer.php:345
+msgid "After Sidebar"
+msgstr "사이드바 다음"
+
+#: inc/compatibility/class-astra-beaver-themer.php:344
+msgid "Before Sidebar"
+msgstr "사이드바 이전"
+
+#: inc/compatibility/class-astra-beaver-themer.php:338
+msgid "After Footer"
+msgstr "푸터 뒤"
+
+#: inc/compatibility/class-astra-beaver-themer.php:337
+msgid "Before Footer"
+msgstr "푸터 앞"
+
+#: inc/compatibility/class-astra-beaver-themer.php:331
+msgid "After Content"
+msgstr "콘텐츠 다음"
+
+#: inc/compatibility/class-astra-beaver-themer.php:330
+msgid "Before Content"
+msgstr "콘텐츠 이전"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:46
+#: inc/compatibility/class-astra-beaver-themer.php:324
+msgid "After Header"
+msgstr "헤더 뒤"
+
+#: inc/compatibility/class-astra-beaver-themer.php:323
+msgid "Before Header"
+msgstr "헤더 앞"
+
+#: inc/compatibility/class-astra-beaver-themer.php:317
+msgid "After Page"
+msgstr "페이지 다음"
+
+#: inc/compatibility/class-astra-beaver-themer.php:316
+msgid "Before Page"
+msgstr "페이지 이전"
+
+#. translators: 1: date, 2: time
+#: inc/blog/single-blog.php:159
+msgid "%1$s at %2$s"
+msgstr "%1$s / %2$s"
+
+#: inc/blog/single-blog.php:105
+msgid "(Edit)"
+msgstr "(편집)"
+
+#: inc/blog/single-blog.php:105
+msgid "Pingback:"
+msgstr "핑백:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/blog/blog-config.php:386 inc/blog/blog-config.php:415
+msgid ", "
+msgstr ", "
+
+#: inc/blog/blog-config.php:311 inc/blog/blog-config.php:567
+msgid "Read More &raquo;"
+msgstr "더 보기 &raquo;"
+
+#: inc/admin-functions.php:78
+#: inc/customizer/configurations/builder/footer/class-astra-customizer-footer-menu-configs.php:57
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:92
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:130
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:162
+msgid "Footer Menu"
+msgstr "푸터 메뉴"
+
+#: inc/admin-functions.php:30
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:144
+#: inc/customizer/configurations/builder/header/class-astra-customizer-header-builder-configs.php:123
+#: inc/customizer/configurations/builder/header/class-astra-header-menu-component-configs.php:51
+msgid "Primary Menu"
+msgstr "주 메뉴"
+
+#: comments.php:55 comments.php:78
+msgid "Comments Navigation"
+msgstr "댓글 내비게이션"
+
+#. translators: 1: number of comments
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;의 %1$s개의 댓글"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
