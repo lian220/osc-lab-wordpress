@@ -1,15 +1,41 @@
-# Translation of Plugins - Akismet Spam Protection - Stable (latest release) in Korean
-# This file is distributed under the same license as the Plugins - Akismet Spam Protection - Stable (latest release) package.
+# Translation of Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-10-22 19:38:32+0000\n"
+"PO-Revision-Date: 2023-06-12 01:35:33+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/4.0.0-alpha.4\n"
 "Language: ko_KR\n"
-"Project-Id-Version: Plugins - Akismet Spam Protection - Stable (latest release)\n"
+"Project-Id-Version: Plugins - Akismet Anti-Spam: Spam Protection - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Automattic - Anti Spam Team"
+msgstr "Automattic - 안티스팸 팀"
+
+#. translators: %1$s is a human-readable time difference, like "3 hours ago",
+#. and %2$s is an already-translated phrase describing how a comment's status
+#. changed, like "This comment was reported as spam."
+#: class.akismet-admin.php:689
+msgid "%1$s - %2$s"
+msgstr "%1$s~%2$s"
+
+#: views/get.php:11
+msgid "(opens in a new tab)"
+msgstr "(새 탭에 열림)"
+
+#. translators: The placeholder is the name of a subscription level, like
+#. "Plus" or "Enterprise" .
+#: views/notice.php:248
+msgid "Upgrade to %s"
+msgstr "%s(으)로 업그레이드"
+
+#: views/notice.php:204 views/notice.php:212 views/notice.php:220
+#: views/notice.php:229
+msgid "Learn more about usage limits."
+msgstr "사용 한계 더 알아보기"
 
 #: views/stats.php:4
 msgid "Anti-Spam Settings"
@@ -57,6 +83,10 @@ msgstr "아키스밋 계정을 설정하여 이 사이트에 스팸을 거르기
 #: class.akismet-admin.php:1140
 msgid "Akismet could not recheck your comments for spam."
 msgstr "아키스밋이 댓글에서 스팸을 재확인할 수 없습니다."
+
+#: class.akismet-admin.php:439
+msgid "You don&#8217;t have permission to do that."
+msgstr "이 작업을 수행할 권한이 없습니다."
 
 #: class.akismet-cli.php:165
 msgid "Stats response could not be decoded."
@@ -149,10 +179,9 @@ msgid "On this page, you are able to update your Akismet settings and view spam 
 msgstr "이 페이지에서, 아키스밋 설정을 업데이트하고 스팸 상태를 볼 수 있습니다."
 
 #. Description of the plugin
-msgid "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key."
-msgstr "수 백만이 사용합니다, 아키스밋은 아마도 <strong>스팸으로부터 블로그를 보호하는</strong> 세상에서 가장 좋은 방법일 것입니다. 당신이 잠든 사이에도 보호된 사이트가 유지되고 있습니다. 시작하려면: 아키스밋 플러그인을 활성화하고 아키스밋 설정 페이지에 가서 API 를 설정하십시오."
+msgid "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. Akismet anti spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key."
+msgstr "수백만 명이 사용하는 아키스밋은 <strong>스팸으로부터 블로그를 보호</strong>하는 세계 최고의 방법일 가능성이 높습니다. 아키스밋 안티 스팸은 잠자는 동안에도 사이트를 보호합니다. 시작하기: 아키스밋 플러그인을 활성화한 다음 아키스밋 설정 페이지로 이동하여 API 키를 설정합니다."
 
-#. Plugin Name of the plugin
 #: class.akismet-admin.php:114 class.akismet-admin.php:117
 msgid "Akismet Anti-Spam"
 msgstr "아키스밋 스팸 방지"
@@ -370,10 +399,6 @@ msgstr "이 댓글은 스팸으로 보고하였습니다."
 #. Author URI of the plugin
 msgid "https://automattic.com/wordpress-plugins/"
 msgstr "https://automattic.com/wordpress-plugins/"
-
-#. Author of the plugin
-msgid "Automattic"
-msgstr "오토매틱"
 
 #. Plugin URI of the plugin
 msgid "https://akismet.com/"
